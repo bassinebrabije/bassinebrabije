@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Brabij Yassine</h1>
 <h3 align="center">Hello Everyone, It's Me Yassine Brabije</h3>
 <img   align ="right"  width="400" src="https://rishavchanda.github.io/images/programmer.gif">
+
 - 👨‍💻 All of my projects are available at https://brabijeyassine.netlify.app
-
 - 📫 How to reach me **brabije.yassine123@gmail.com**
-
 - ⚡ Fun fact **I love Gym 🏋 and videos Games🎮**
 
 <h3 align="left">Connect with me:</h3>
