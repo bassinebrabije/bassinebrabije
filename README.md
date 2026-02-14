@@ -29,7 +29,7 @@ I build pixel-perfect, performant applications for web and mobile.
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 #### **🎨 UI/UX & Design Tools**
 *Focus: Bridging the gap between design and code.*
 
